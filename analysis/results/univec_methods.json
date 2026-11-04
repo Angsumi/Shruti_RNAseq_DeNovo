@@ -1,0 +1,17 @@
+{
+  "method": "BLASTn 2.17.0+ vs UniVec; VecScreen-style score categories. Local reimplementation, not official FCS-adaptor output.",
+  "parameters": "-task blastn -reward 1 -penalty -5 -gapopen 3 -gapextend 3 -dust yes -soft_masking true -evalue 700 -searchsp 1750000000000 -max_target_seqs 100 -num_threads 6",
+  "category_source": "https://www.ncbi.nlm.nih.gov/tools/vecscreen/about/",
+  "reference_url": "https://ftp.ncbi.nlm.nih.gov/pub/UniVec/UniVec",
+  "reference_sha256": "2fb50fd9749e3c31b77107e902ba81eed87a55fd2f32b99a708a6172d168a1c9",
+  "alignment_categories": {
+    "below_weak": 95222,
+    "weak": 13498,
+    "moderate": 1677,
+    "strong": 3075
+  },
+  "transcripts_with_weak_or_stronger_match": 8454,
+  "transcripts_with_moderate_or_stronger_match": 329,
+  "transcripts_with_strong_match": 99,
+  "limits": "UniVec includes biological sequences. Match strength alone is not proof of laboratory contamination. Whole-body microbes can have legitimate homologues. Review source entries, boundaries and library adapters before any removal; output capped at 100 reference targets per query."
+}

@@ -1,0 +1,6 @@
+reporting_cutoff	all_protein_records_at_or_above	vendor_candidate_records_at_or_above	interpretation
+0.5	244	2	Exploratory score sensitivity; no cutoff validates biological activity
+0.7	95	1	Exploratory score sensitivity; no cutoff validates biological activity
+0.8	50	0	Exploratory score sensitivity; no cutoff validates biological activity
+0.9	24	0	Exploratory score sensitivity; no cutoff validates biological activity
+0.95	18	0	Exploratory score sensitivity; no cutoff validates biological activity

@@ -86,8 +86,8 @@
   },
   {
     "path": "analysis/RESEARCH_PLAN.md",
-    "bytes": 8846,
-    "sha256": "b0730035706d630b440ebfce7c8d8a0fbea283dada8e409b1a5d7c4da9926bdc"
+    "bytes": 9727,
+    "sha256": "6111e067e9f98d4588e1d52bef5a5cbd28b3360b644e68efbab91902abb9028f"
   },
   {
     "path": "analysis/results/amp_candidate_full_sequences.faa",
@@ -208,5 +208,235 @@
     "path": "analysis/scripts/shortlist_candidates.py",
     "bytes": 2140,
     "sha256": "ba4ceb62c476b1129f38835b66f1ccf32c66842352393d95731037911d727414"
+  },
+  {
+    "path": "analysis/COMPUTATIONAL_WORKFLOW.md",
+    "bytes": 3822,
+    "sha256": "68cc1a124f47be93169a10f81fceb3fe8f95e378c09be5ea65bfc0ede16ec9c2"
+  },
+  {
+    "path": "analysis/results/busco_hymenoptera_proteins_markers.tsv",
+    "bytes": 254324,
+    "sha256": "0ffbd9f97261237cf1d3059914d1f5f90a7bc988e1e95c5115e2391fc604b16f"
+  },
+  {
+    "path": "analysis/results/univec_alignment_review.tsv.gz",
+    "bytes": 2946708,
+    "sha256": "ee5ed4b1960ee42f09d865334e447c361a86d90d6ce4f0130ab2475181b60920"
+  },
+  {
+    "path": "analysis/results/macrel_methods.json",
+    "bytes": 544,
+    "sha256": "c2e5ffb4e7e8dd6768f151223a897afbe91a268bc26d13fe3b0087a90c5caba9"
+  },
+  {
+    "path": "analysis/results/ampir_session_info.txt",
+    "bytes": 2234,
+    "sha256": "fb19b026536cacf9536d6777b3f4de0aa760c79b261efe5fd947a2c8fe65bffb"
+  },
+  {
+    "path": "analysis/results/swissprot_protein_review.tsv.gz",
+    "bytes": 1665742,
+    "sha256": "6febae9854ee991c27cdf23a80db819ae1c092e026db618fb81d533676e63541"
+  },
+  {
+    "path": "analysis/results/dramp_database_search_methods.json",
+    "bytes": 872,
+    "sha256": "a39c9144539eb9ee63bb5f85347b653b3e45fe228ba4d0d6182b294bdaec458a"
+  },
+  {
+    "path": "analysis/results/dramp_reference_exclusions.json",
+    "bytes": 33278,
+    "sha256": "a4918a81a844d16661b4fb7c1c48cec7c92a0ab262f95c88c2c73791030fc50c"
+  },
+  {
+    "path": "analysis/results/independent_amp_methods.json",
+    "bytes": 1543,
+    "sha256": "eebb8e28426fe83f4b496987598948ebc54d82a91c4d9981ba32438877cd05e1"
+  },
+  {
+    "path": "analysis/results/ampir_vendor_candidates.tsv",
+    "bytes": 19056,
+    "sha256": "21c71850834e2d8e084b036acb81c20f51ecfc64072e8c276369ef93975b96cd"
+  },
+  {
+    "path": "analysis/results/amp_broad_annotation_review.tsv",
+    "bytes": 75270,
+    "sha256": "66b8170893669c0d9cf2dc1a6d7f200964b239d7754187249eefdcedf40920bd"
+  },
+  {
+    "path": "analysis/results/swissprot_transcript_review.tsv.gz",
+    "bytes": 4314213,
+    "sha256": "7b22aeb7eb47c8c2f7e267184b0923a0e85afed38e13ecbac8fc9ac4866d9c0a"
+  },
+  {
+    "path": "analysis/results/busco_hymenoptera_methods.json",
+    "bytes": 782,
+    "sha256": "e394033d1b4b05aed7584f03b383c7123865df6d70374775916fbb89b185dcc0"
+  },
+  {
+    "path": "analysis/results/expression_descriptive_summary.tsv",
+    "bytes": 395,
+    "sha256": "12ab830c1240c9be6a7d219adca98f4c32e3b1b3322a2a582bf9a71fcbeb1f2d"
+  },
+  {
+    "path": "analysis/results/univec_flagged_transcripts.tsv",
+    "bytes": 632860,
+    "sha256": "12c0aa5263dc6cac7ae55082857299e15c58c9963a24a3df9749d3537b68d567"
+  },
+  {
+    "path": "analysis/results/univec_methods.json",
+    "bytes": 1104,
+    "sha256": "9974b945c71e63a9fec9fda78e0ed9e6793e9be94456218479b42a0aad75f383"
+  },
+  {
+    "path": "analysis/results/ampir_high_score_sequences.faa",
+    "bytes": 7705,
+    "sha256": "258c8d9bb5150553e9132818a3606a8f8961c527427f0eba68a6d7bbe055a94c"
+  },
+  {
+    "path": "analysis/results/broad_search_methods.json",
+    "bytes": 2361,
+    "sha256": "01de8f08678745a1d57d8f95c033026db44131c1bc1aa5ae68cde0418cc9a4a3"
+  },
+  {
+    "path": "analysis/results/dramp_database_search.tsv",
+    "bytes": 23114,
+    "sha256": "1c8b4941fde45de389de352cbda1aa15ba32055453f637a65999ea082fb81819"
+  },
+  {
+    "path": "analysis/results/expression_membership_overlap.tsv",
+    "bytes": 360,
+    "sha256": "04ff0128e2767ef8c63c9a1a27afcacb6d6683fe4c489909588fc2ad1f3024ec"
+  },
+  {
+    "path": "analysis/results/macrel_eligibility.tsv",
+    "bytes": 33289,
+    "sha256": "5f8cf86745e880ea6a13276031ebdf7c58462284fc333195b77171261224d25b"
+  },
+  {
+    "path": "analysis/results/ampir_all_proteins.tsv.gz",
+    "bytes": 563138,
+    "sha256": "2ba64a7508a85c7524974bc77a9406dc6df9fa706dc2ee4d44f7827d2ae9b32f"
+  },
+  {
+    "path": "analysis/results/ampir_high_score_integrated_review.tsv",
+    "bytes": 17608,
+    "sha256": "f5bc15facf521b9eba9dc73344adf7aaac529a7b15396d9b4beca78ca5a37e49"
+  },
+  {
+    "path": "analysis/results/amp_vendor_candidates_final_review.tsv",
+    "bytes": 236498,
+    "sha256": "c566e7a902b77dac495b6a24ab62a26331f395bde200bfbbf6646e23d25dff1c"
+  },
+  {
+    "path": "analysis/results/ampir_high_score_phobius.txt",
+    "bytes": 2104,
+    "sha256": "65b2d13c43498097725cce26054eb0eac9b29a4efe5a0dff7302e9c398d77d5c"
+  },
+  {
+    "path": "analysis/results/busco_hymenoptera_proteins_summary.json",
+    "bytes": 2420,
+    "sha256": "bee309996bd52dfb3ecde354318a0b626596d07cd10041e32083483d6e22c7f1"
+  },
+  {
+    "path": "analysis/results/ampir_threshold_sensitivity.tsv",
+    "bytes": 503,
+    "sha256": "dca5485a391056d8ebfd18696d2bd657a31b9f6f4c41a6271bd7bbb2fb968616"
+  },
+  {
+    "path": "analysis/results/busco_hymenoptera_proteins_summary.txt",
+    "bytes": 760,
+    "sha256": "ccd9d823ae32611f112c7defde88358959b90f45dea8ac914c49718b74db3c3b"
+  },
+  {
+    "path": "analysis/results/macrel_eligible_predictions.tsv",
+    "bytes": 1540,
+    "sha256": "fdc984821ff74e05daf5c4e1ef8f27965e47dce9b04a94b5621ede061f0e86f2"
+  },
+  {
+    "path": "analysis/scripts/run_ampir.R",
+    "bytes": 784,
+    "sha256": "6af192b3e120eeef095b843d83a6ddfe537bad10d208f9360e3510547934314c"
+  },
+  {
+    "path": "analysis/scripts/summarize_univec.py",
+    "bytes": 3350,
+    "sha256": "37c5b3c89fe29eeacc98a6f40b6a8eec83c4cadf5bc0ecba95e50b62040581bf"
+  },
+  {
+    "path": "analysis/scripts/summarize_broad_search.py",
+    "bytes": 5007,
+    "sha256": "b63fb7a5830dc3f2f4e79043701726a146dca099c6fdf67278ce62aaf02f288b"
+  },
+  {
+    "path": "analysis/scripts/describe_expression.py",
+    "bytes": 1281,
+    "sha256": "4e657e950887c1e393ef01eb692cc376ef19ffb7a632b430d48eac87c51b0da8"
+  },
+  {
+    "path": "analysis/scripts/integrate_final_evidence.py",
+    "bytes": 4286,
+    "sha256": "a4a9f0cac56ec2a5ed0f25476f9b0f5a5c252b99d5afa1f30ead28455d834a84"
+  },
+  {
+    "path": "analysis/scripts/plot_analysis_summary.py",
+    "bytes": 1902,
+    "sha256": "e088253cfd9921ab4080d1d6eb4a40402b13d6dc468eadcec8e884b436bd3872"
+  },
+  {
+    "path": "analysis/scripts/prepare_publication_metadata.py",
+    "bytes": 804,
+    "sha256": "b133ebc77d4c8f4d5304aaadfda2f888e5e8207f1e2fb7394200a90236a1518b"
+  },
+  {
+    "path": "analysis/scripts/derive_ampir_outputs.py",
+    "bytes": 1620,
+    "sha256": "edb9fdc479212b46b0467849c32a2a7902d23428ea8588f1819080e427a525ff"
+  },
+  {
+    "path": "analysis/scripts/package_computational_results.py",
+    "bytes": 3983,
+    "sha256": "f7ad74e4fa13e8032c47288620981aa771be449f34b37f443bba8f500b5fc373"
+  },
+  {
+    "path": "analysis/publication/EXPERIMENTAL_VALIDATION_PLAN.md",
+    "bytes": 2955,
+    "sha256": "ac47f5c1989f6452fae5969ef159cdb6d4840755107cce7c4026d94d5bdcb5bd"
+  },
+  {
+    "path": "analysis/publication/SPECIES_IDENTITY_RECORD.md",
+    "bytes": 1078,
+    "sha256": "5afd654305836a8ddff16f771ff9468ec462065ad68228d9a5b2c3fd24d781c3"
+  },
+  {
+    "path": "analysis/publication/METHODS_AND_RESULTS_DRAFT.md",
+    "bytes": 8800,
+    "sha256": "c62fe5f16858bf6b6ef7150aa7a888d8b4557e326b3e2399c263bc5cadd7154c"
+  },
+  {
+    "path": "analysis/publication/ampir_score_sensitivity.png",
+    "bytes": 121759,
+    "sha256": "44a912232a23c1d5535ddaafc31645091b2d7c2af71a69f3a62f323260b00804"
+  },
+  {
+    "path": "analysis/publication/homology_review.png",
+    "bytes": 127665,
+    "sha256": "9ea1e9c3d38740e7225cdf1f90984233920dbca398acc1ca4046faa38088c3b3"
+  },
+  {
+    "path": "analysis/publication/READINESS_AND_CLAIMS.md",
+    "bytes": 4227,
+    "sha256": "c2f9d4acc8b2772f847a79e451eeb33c1e14b93689c2c95cd56f172a840c4c76"
+  },
+  {
+    "path": "analysis/publication/FIGURE_CAPTIONS.md",
+    "bytes": 840,
+    "sha256": "c3d4b9c39fe167b7ed4d1382337da430cb4f02a8b0916424fb4ba949ce1f3b2b"
+  },
+  {
+    "path": "analysis/publication/sample_metadata.tsv",
+    "bytes": 997,
+    "sha256": "94df5ca8b0d4908c96d8e8124c0f3ce447767e58371da6756444573c7cd773a2"
   }
 ]

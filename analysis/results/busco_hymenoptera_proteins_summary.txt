@@ -1,0 +1,17 @@
+# BUSCO version is: 6.1.0 
+# The lineage dataset is: hymenoptera_odb12.2 (Creation date: 2026-05-13, number of genomes: 76, number of BUSCOs: 5651)
+# Summarized benchmarking in BUSCO notation for file /home/angsuman/extra_spac/Shruti/Shruti_RNAseq_DeNovo/vendor_analysis/extracted_results/OPL_mRNA_3_24201_Analysis_Results/Transcriptome DeNovo Assembly/Dinoponera gigantea Assembly.pep
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:11.1%[S:9.4%,D:1.7%],F:7.1%,M:81.7%,n:5651	   
+	629	Complete BUSCOs (C)			   
+	532	Complete and single-copy BUSCOs (S)	   
+	97	Complete and duplicated BUSCOs (D)	   
+	404	Fragmented BUSCOs (F)			   
+	4618	Missing BUSCOs (M)			   
+	5651	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.4

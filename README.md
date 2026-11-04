@@ -27,3 +27,7 @@ Serve this directory using `python3 -m http.server 8000` and open `http://localh
 ## Continuing analysis
 
 `analysis/results/` contains new retained-file audits and extracted candidate sequences. Run `python3 analysis/scripts/audit_deliverables.py` to regenerate them. See [research plan](analysis/RESEARCH_PLAN.md) for ordered next steps and publication requirements. The report labels completed, reported and pending work separately.
+
+## Expanded computational assessment
+
+Steps 16–23 report expanded Swiss-Prot annotation/taxonomic review, UniVec screening, independent precursor-model prediction, fresh DRAMP database search, updated candidate interpretation, Hymenoptera protein BUSCO, metadata and descriptive counts. The secretion-only shortlist is historical and has been superseded by the integrated review. See [computational workflow](analysis/COMPUTATIONAL_WORKFLOW.md), [methods/results draft](analysis/publication/METHODS_AND_RESULTS_DRAFT.md) and [readiness/claims](analysis/publication/READINESS_AND_CLAIMS.md). Experimental measurements and a confirmed host-only partition are not available.

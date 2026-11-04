@@ -1,0 +1,4 @@
+sample_1	sample_2	shared_delivered_IDs	union_delivered_IDs	Jaccard_membership	interpretation
+AZ1	AZ2	18796	28083	0.669302	Workbook membership overlap; absence is not zero expression
+AZ1	AZ3	15270	28029	0.544793	Workbook membership overlap; absence is not zero expression
+AZ2	AZ3	12882	21452	0.600503	Workbook membership overlap; absence is not zero expression

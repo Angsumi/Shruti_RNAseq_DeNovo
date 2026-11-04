@@ -1,0 +1,4 @@
+sample	delivered_rows	observed_count_sum	median_delivered_count	minimum	maximum	zero_count_rows	interpretation
+AZ1	27922	481075	4.0	1	48794	0	Delivered selected rows only; not complete library totals or TPM
+AZ2	18957	557693	3	1	79035	0	Delivered selected rows only; not complete library totals or TPM
+AZ3	15377	330323	2	1	62565	0	Delivered selected rows only; not complete library totals or TPM
