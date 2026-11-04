@@ -1,0 +1,13 @@
+{
+  "aligner": "DIAMOND 2.2.8",
+  "parameters": "blastp --ultra-sensitive --evalue 0.001 --max-target-seqs 10 --threads 6",
+  "reference": "DRAMP general AMP FASTA downloaded 4 November 2026; upstream path names DRAMP3.0_new; no unsupported release-number inference",
+  "reference_records_retained": 10951,
+  "reference_records_excluded_nonstandard_or_too_short": 1833,
+  "reference_source_sha256": "8326ff308eb3ae67cafbdbf3756c0e943d7d968e5e0a338298ce602269d1caf0",
+  "alignment_rows": 254,
+  "matched_protein_records": 115,
+  "vendor_candidate_records_with_match": 26,
+  "ampir_high_score_records_with_match": 1,
+  "limits": "Reported alignments are similarity evidence only. E-values depend on this database and aligner. Short, modified and excluded reference peptides and masking/seed sensitivity limit detection. No-hit is not proof of no AMP activity or novelty."
+}

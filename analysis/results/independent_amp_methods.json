@@ -1,0 +1,28 @@
+{
+  "predictor": "ampir 1.1.0 precursor SVM model",
+  "scope": "All 41,281 predicted proteins; terminal stop symbols removed; no manual mature-peptide cleavage inferred",
+  "review_cutoff": 0.8,
+  "cutoff_interpretation": "Suggested exploratory reporting threshold; not calibrated specificity or experimental validation",
+  "predictions": 41281,
+  "NA_predictions": 0,
+  "all_protein_high_scores": 50,
+  "unique_high_score_sequences": 46,
+  "vendor_370_high_scores": 0,
+  "vendor_old_tier_A_non_host_homology_flags": 3,
+  "high_score_with_SP": 6,
+  "high_score_complete_SP_no_TM": 3,
+  "high_score_homology_statuses": {
+    "mixed_or_limited_homology": 22,
+    "arthropod_homology_support": 1,
+    "no_reported_match": 20,
+    "non_animal_homology_review": 5,
+    "bacterial_homology_review": 2
+  },
+  "training_reference": "https://ampir.marine-omics.net/",
+  "limitations": "Machine-learning model score does not validate activity, mature processing, host origin or novelty. Model training overlap with AMP reference databases has not been audited. No experimental results are available.",
+  "unique_complete_SP_no_TM_sequences": 1,
+  "complete_SP_no_TM_best_references": [
+    "sp|P00726|SPAN1_LAMBD Spanin, inner membrane subunit OS=Escherichia phage lambda OX=2681611 GN=Rz PE=1 SV=1"
+  ],
+  "interpretation": "The three complete/SP/no-TM records represent one exact peptide sequence with best Swiss-Prot homology to phage lambda spanin. They are not established ant AMPs. No validated host-origin AMP is established by this workflow."
+}

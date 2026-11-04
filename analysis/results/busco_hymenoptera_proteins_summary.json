@@ -1,0 +1,66 @@
+{
+    "parameters": {
+        "out_path": "/home/angsuman/extra_spac/Shruti/Shruti_RNAseq_DeNovo/.runtime/busco",
+        "cpu": "8",
+        "force": "False",
+        "restart": "False",
+        "quiet": "False",
+        "download_path": "/home/angsuman/extra_spac/Shruti/Shruti_RNAseq_DeNovo/.runtime/references/busco",
+        "datasets_version": "odb12.2",
+        "offline": "False",
+        "download_base_url": "https://busco-data.ezlab.org/v5/data/",
+        "auto-lineage": "False",
+        "auto-lineage-prok": "False",
+        "auto-lineage-euk": "False",
+        "use_augustus": "False",
+        "use_miniprot": "False",
+        "use_metaeuk": "False",
+        "skip_bbtools": "False",
+        "batch_mode": "False",
+        "tar": "False",
+        "opt-out-run-stats": "True",
+        "plot_percentages": "False",
+        "in": "/home/angsuman/extra_spac/Shruti/Shruti_RNAseq_DeNovo/vendor_analysis/extracted_results/OPL_mRNA_3_24201_Analysis_Results/Transcriptome DeNovo Assembly/Dinoponera gigantea Assembly.pep",
+        "out": "hymenoptera_proteins",
+        "mode": "proteins",
+        "lineage_dataset": "/home/angsuman/extra_spac/Shruti/Shruti_RNAseq_DeNovo/.runtime/references/busco/lineages/hymenoptera_odb12.2",
+        "main_out": "/home/angsuman/extra_spac/Shruti/Shruti_RNAseq_DeNovo/.runtime/busco/hymenoptera_proteins",
+        "lineage_results_dir": "run_hymenoptera_odb12.2",
+        "domain": "eukaryota",
+        "ncbi_taxid": "7399",
+        "orthodb_version": "12.2",
+        "dataset_version": "01"
+    },
+    "lineage_dataset": {
+        "name": "hymenoptera_odb12.2",
+        "creation_date": "2026-05-13",
+        "number_of_buscos": "5651",
+        "number_of_species": "76"
+    },
+    "versions": {
+        "python": [
+            3,
+            12,
+            3,
+            "final",
+            0
+        ],
+        "busco": "6.1.0",
+        "hmmsearch": 3.4
+    },
+    "results": {
+        "one_line_summary": "C:11.1%[S:9.4%,D:1.7%],F:7.1%,M:81.7%,n:5651",
+        "Complete percentage": 11.1,
+        "Complete BUSCOs": 629,
+        "Single copy percentage": 9.4,
+        "Single copy BUSCOs": 532,
+        "Multi copy percentage": 1.7,
+        "Multi copy BUSCOs": 97,
+        "Fragmented percentage": 7.1,
+        "Fragmented BUSCOs": 404,
+        "Missing percentage": 81.7,
+        "Missing BUSCOs": 4618,
+        "n_markers": 5651,
+        "domain": "eukaryota"
+    }
+}

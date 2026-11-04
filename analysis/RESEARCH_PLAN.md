@@ -65,3 +65,7 @@ Remaining work cannot be called complete from these deliverables:
 - Raw-read restoration and archival deposition/accessions remain unresolved.
 
 The current package supports computational candidate review and descriptive results drafting. It is not yet a completed research-paper evidence package.
+
+## Computational execution completed on 4 November 2026
+
+The remaining planned retained-data computations have now been executed: Swiss-Prot protein/transcript search and taxonomic review, UniVec vector/adaptor review, independent ampir precursor screening, scoped Macrel check, fresh DRAMP search, Hymenoptera protein BUSCO, updated candidate integration, descriptive expression, sample metadata and manuscript support documents. The historical priority tier is superseded by the updated evidence. See `publication/READINESS_AND_CLAIMS.md` for exact limits and external evidence still needed. Experimental measurements are unavailable because the author reports no lab access; the validation design is prepared but experiments are not marked complete. Comprehensive host/non-host nucleotide partition and contamination resolution remain unresolved rather than falsely certified.

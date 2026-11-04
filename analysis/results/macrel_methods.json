@@ -1,0 +1,8 @@
+{
+  "version": "1.6.1",
+  "mode": "peptides, --keep-negatives",
+  "length_scope": "Only nine full records within 10\u2013100 aa and standard residue domain; precursor vs mature status is still uncertain",
+  "results": "All nine returned is_AMP=False; 361 longer/unsupported records were not classified",
+  "limits": "Not a suitable full-precursor model; primary independent full-protein screen is ampir precursor. These are predictions, not activity or safety measurements.",
+  "documentation": "https://macrel.readthedocs.io/en/latest/faq/"
+}

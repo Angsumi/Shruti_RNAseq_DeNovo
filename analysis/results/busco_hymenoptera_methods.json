@@ -1,0 +1,14 @@
+{
+  "software": "BUSCO 6.1.0; HMMER 3.4",
+  "mode": "proteins",
+  "lineage": {
+    "name": "hymenoptera_odb12.2",
+    "creation_date": "2026-05-13",
+    "number_of_buscos": "5651",
+    "number_of_species": "76"
+  },
+  "input": "vendor_analysis/extracted_results/OPL_mRNA_3_24201_Analysis_Results/Transcriptome DeNovo Assembly/Dinoponera gigantea Assembly.pep",
+  "input_sha256": "461c9d850e876ab3111782d55dce2b1b4e45e7e161700aa671ed29587027b2fb",
+  "command": "busco --in <vendor peptides> --mode proteins --lineage_dataset hymenoptera_odb12.2 --cpu 8 --opt-out-run-stats",
+  "interpretation": "Completeness of delivered predicted proteins; different input and lineage from historical broad-eukaryote transcript-mode result. Do not treat as a controlled before/after comparison."
+}

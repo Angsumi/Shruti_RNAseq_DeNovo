@@ -1,0 +1,57 @@
+{
+  "software": "DIAMOND 2.2.8",
+  "reference": "Reviewed UniProtKB/Swiss-Prot",
+  "reference_release": "UniProt Knowledgebase Release 2026_03 consists of:\nUniProtKB/Swiss-Prot Release 2026_03 of 02-Sep-2026\nUniProtKB/TrEMBL Release 2026_03 of 02-Sep-2026\n",
+  "reference_records": 575748,
+  "reference_sha256": "a9c3496aa727e61d25d9e1291c9ba28d2c2ad19c0e26569dc083d53ec4169536",
+  "taxonomy_sha256": "d483145f533253d3c5347b03c809437ecf14f0d85290cacc187249d4e108a698",
+  "parameters": "blastp and blastx; --sensitive --evalue 1e-5 --max-target-seqs 5 --threads 8",
+  "review_rule": ">=50% query coverage, >=40% identity, E<=1e-10, and same reference group among retained hits within 90% of best bitscore. Exploratory review flag, not a validated taxonomic classifier.",
+  "limits": "Biased reviewed database, at most five retained matches, homology cannot distinguish host contamination from symbionts, diet or other whole-body-associated organisms. No transcript removed. No-match does not mean contaminant-free. Not FCS-GX or comprehensive nucleotide taxonomy screening.",
+  "results": {
+    "protein": {
+      "queries": 41281,
+      "matched_queries": 25999,
+      "status_counts": {
+        "no_reported_match": 15282,
+        "arthropod_homology_support": 834,
+        "mixed_or_limited_homology": 11023,
+        "bacterial_homology_review": 12398,
+        "non_animal_homology_review": 1744
+      },
+      "best_reference_group_counts": {
+        "Arthropoda": 1545,
+        "Fungi": 2732,
+        "Bacteria": 16282,
+        "Other_Metazoa": 4418,
+        "Archaea": 265,
+        "Viruses": 340,
+        "Viridiplantae": 301,
+        "Other_or_unresolved": 116
+      },
+      "raw_alignment_rows": 114242
+    },
+    "transcript": {
+      "queries": 318934,
+      "matched_queries": 51062,
+      "status_counts": {
+        "non_animal_homology_review": 2060,
+        "no_reported_match": 267872,
+        "bacterial_homology_review": 6909,
+        "mixed_or_limited_homology": 41192,
+        "arthropod_homology_support": 901
+      },
+      "best_reference_group_counts": {
+        "Fungi": 3403,
+        "Bacteria": 12164,
+        "Other_Metazoa": 31453,
+        "Viridiplantae": 598,
+        "Arthropoda": 2369,
+        "Viruses": 776,
+        "Other_or_unresolved": 142,
+        "Archaea": 157
+      },
+      "raw_alignment_rows": 197938
+    }
+  }
+}
