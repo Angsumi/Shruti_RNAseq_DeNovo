@@ -86,8 +86,8 @@
   },
   {
     "path": "analysis/RESEARCH_PLAN.md",
-    "bytes": 7399,
-    "sha256": "5721f0a83f64be28d1aed17b9195284093f407209766a68637c8a842c936129e"
+    "bytes": 8846,
+    "sha256": "b0730035706d630b440ebfce7c8d8a0fbea283dada8e409b1a5d7c4da9926bdc"
   },
   {
     "path": "analysis/results/amp_candidate_full_sequences.faa",
@@ -188,5 +188,25 @@
     "path": "analysis/scripts/recheck_amp_alignments.py",
     "bytes": 2843,
     "sha256": "c37acb2bf0859945d5c782a5bc1a82a193e16c89b21c09fd4280ebfceebf84c0"
+  },
+  {
+    "path": "analysis/results/amp_priority_review.tsv",
+    "bytes": 6829,
+    "sha256": "84678f3622b746bd9d0e645f55a6c4e1f7a2fad99397be864d542b2eb135df0b"
+  },
+  {
+    "path": "analysis/results/amp_integrated_review.tsv",
+    "bytes": 128188,
+    "sha256": "b780c1a9232aedc67140b4484a7db2d1944462e3ad4ea79a95ab55264f1d51ee"
+  },
+  {
+    "path": "analysis/results/amp_review_tiers.json",
+    "bytes": 132,
+    "sha256": "5da2beb8a58ca715ffd0e585d8a6db0abfb4127435e7c86cb44563efce5cbb7f"
+  },
+  {
+    "path": "analysis/scripts/shortlist_candidates.py",
+    "bytes": 2140,
+    "sha256": "ba4ceb62c476b1129f38835b66f1ccf32c66842352393d95731037911d727414"
   }
 ]

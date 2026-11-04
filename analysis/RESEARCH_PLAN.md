@@ -51,3 +51,17 @@ Assembly, annotation, mapping and counting are already reported as done. Raw rea
 Full candidates were locally re-aligned to the 688 original DRAMP target pairs using Biopython 1.88/BLOSUM62, gap open -11, extend -0.5. This is a pairwise recheck, not a database-wide search or significance test. The current public general reference FASTA has 12,784 records; URL and checksum are retained. Unicode whitespace was removed from reference sequences during parsing.
 
 Phobius 1.01 standalone produced predictions for all 370 candidates: 21 signal-positive, 18 signal-positive without TM helices, 12 signal-positive with complete ORFs, 64 with one or more TM helices. Only terminal stop symbols were removed from predictor input. Original files remain unchanged. The full web submission was rejected for size, so predictions were run locally. Next: cross-reference these predictions with complete ORFs, alignment coverage and expression evidence for manual candidate review.
+
+## Integrated shortlist and remaining dependencies
+
+Completed: an integrated evidence table for all 370 candidates; tier A contains 11 complete-ORF, signal-positive, no-TM candidates, and tier B contains seven partial-ORF candidates with the same prediction profile. These are explicit review criteria, not validated activity thresholds. No candidates were discarded. Selected alignment statistics are from one actual hit, prioritizing target coverage then local score; they do not establish statistical significance.
+
+Remaining work cannot be called complete from these deliverables:
+- Taxonomic contamination screening requires a broad, documented reference database and search workflow. AMP-only DRAMP alignments are not a contamination screen.
+- Functional reannotation, lineage-specific BUSCO and independent AMP prediction require additional tools/reference data; no results are claimed for these.
+- Tissue, caste/sex, pooling, colony, biological independence and collection/library details remain unknown.
+- Exact mapping reference/parameters and count selection rules remain undocumented.
+- Experimental antimicrobial activity, toxicity and secretion have not been tested. Novelty has not been established.
+- Raw-read restoration and archival deposition/accessions remain unresolved.
+
+The current package supports computational candidate review and descriptive results drafting. It is not yet a completed research-paper evidence package.
