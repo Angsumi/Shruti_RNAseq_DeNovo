@@ -1,0 +1,7 @@
+decodeanhmm 1.2211d
+Copyright (C) 1998-99 by Anders Krogh
+Wed Nov  4 22:48:34 2026
+
+Model in file "phobius.model" parsed successfully.
+370 sequences read in file 'analysis/results/amp_candidates_prediction_input.faa'.
+Min length 99, max 1477, average 219.754054

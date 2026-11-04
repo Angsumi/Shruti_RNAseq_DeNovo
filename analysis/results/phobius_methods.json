@@ -1,0 +1,14 @@
+{
+  "software": "Phobius 1.01; decodeanhmm 1.2211d; 64-bit standalone",
+  "service": "https://phobius.sbc.su.se/",
+  "citation": "https://doi.org/10.1016/j.jmb.2004.03.016",
+  "command": "perl /path/to/phobius/phobius.pl -short analysis/results/amp_candidates_prediction_input.faa",
+  "input_preparation": "Only terminal translation-stop symbols removed; original candidate FASTA retained unchanged",
+  "input_sha256": "964cc00f803d6b590b2bd860d9c70dcde1c6af10cb3db055c5fbafbf8448a01f",
+  "candidates": 370,
+  "SP_predicted": 21,
+  "SP_predicted_no_TM": 18,
+  "SP_predicted_complete_ORF": 12,
+  "one_or_more_TM": 64,
+  "limits": "Predictions do not prove secretion or AMP activity. Negative SP calls on missing N termini are inconclusive. Wrapper emitted uninitialized string warnings; 370 unique prediction rows verified against raw decoder record count."
+}
