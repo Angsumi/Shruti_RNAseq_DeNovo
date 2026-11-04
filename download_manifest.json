@@ -96,13 +96,13 @@
   },
   {
     "path": "analysis/results/amp_sequence_audit.tsv",
-    "bytes": 81023,
-    "sha256": "163c3e8806fe014945bbb78361c2d22caee84d2cb38eb03ad3f73890cfdcbced"
+    "bytes": 80334,
+    "sha256": "8ce5c408289cd7cf4f46db7c622df3cb92edacd7d2c0ddf2150d4d181b09406f"
   },
   {
     "path": "analysis/results/annotation_species_labels.tsv",
-    "bytes": 118500,
-    "sha256": "7f963753e629efc28fa2920a3c85411b6cad5e40525b7850d40d1f91a9676fd1"
+    "bytes": 117335,
+    "sha256": "d78e1cd7a149b81a3ae014058ec1a5bfd31d00b52f771f531b3230bad8087a34"
   },
   {
     "path": "analysis/results/deliverable_audit.json",
@@ -116,13 +116,13 @@
   },
   {
     "path": "analysis/results/expression_audit.tsv",
-    "bytes": 244,
-    "sha256": "e16bba09cf0eb46400493c0ceb99417f6afd5a17e7579b681af20c91038f848d"
+    "bytes": 240,
+    "sha256": "14ba29ddccae3b9fc18ce432efb355f88a6e1ca51579f749a0992098cf1e68f9"
   },
   {
     "path": "analysis/results/invalid_expression_counts.tsv",
-    "bytes": 17,
-    "sha256": "ac897e8e2d65c258b224fa5fa4edda7127824183035103220491646d2e7022d3"
+    "bytes": 16,
+    "sha256": "f44ede6bc289a569a16e5575527a4c82f313ac3ac2d3599fd76aeebdcdca63f2"
   },
   {
     "path": "analysis/scripts/audit_deliverables.py",
@@ -131,8 +131,8 @@
   },
   {
     "path": "analysis/results/amp_candidate_evidence.tsv",
-    "bytes": 81244,
-    "sha256": "265293edf4e0d4deb01eb3599f4d4cb1ccde7170b2a3c2df05841e241ddf6532"
+    "bytes": 80873,
+    "sha256": "8f3e3f27ac6d86a19736a5ac16a780b6c7e12849552a21e92f8199636b14f1bb"
   },
   {
     "path": "analysis/scripts/build_candidate_evidence.py",
@@ -156,13 +156,13 @@
   },
   {
     "path": "analysis/results/amp_full_sequence_realignments.tsv",
-    "bytes": 59338,
-    "sha256": "6877944b940441c296c0f2591ff74d53e8084e6257581c84a1cb3d906e3c6568"
+    "bytes": 58649,
+    "sha256": "628787936305b67f5ba83f1a16ce3c78a936fe1273361367dd5320a6ed970eeb"
   },
   {
     "path": "analysis/results/phobius_candidate_summary.tsv",
-    "bytes": 47700,
-    "sha256": "9237e18e22743e8b98392b804640a96a500a00c37c8a9146dc67ab9a4ba9e336"
+    "bytes": 47329,
+    "sha256": "e6c1c5d9171640c728cb30a9807391f56c924e9ee913591b28c04e625ddac631"
   },
   {
     "path": "analysis/results/phobius_predictions.txt",
