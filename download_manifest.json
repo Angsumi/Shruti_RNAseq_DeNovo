@@ -107,7 +107,7 @@
   {
     "path": "analysis/results/deliverable_audit.json",
     "bytes": 1729,
-    "sha256": "cf8ae6e1ebafb8babc51c41be612e25d3d5b7c95ec2b94acf7b4dd7bf3e91f74"
+    "sha256": "501d79960a5a2e76ede7ee390f7efea9130e9471c3a9b9b73c17aa57e37db372"
   },
   {
     "path": "analysis/results/delivered_counts_union.tsv.gz",
@@ -128,5 +128,15 @@
     "path": "analysis/scripts/audit_deliverables.py",
     "bytes": 6581,
     "sha256": "c479b7418f7eedc9b32649955b3b4d7d224ab645ee177bcaf5daf732e0a154fd"
+  },
+  {
+    "path": "analysis/results/amp_candidate_evidence.tsv",
+    "bytes": 81244,
+    "sha256": "265293edf4e0d4deb01eb3599f4d4cb1ccde7170b2a3c2df05841e241ddf6532"
+  },
+  {
+    "path": "analysis/scripts/build_candidate_evidence.py",
+    "bytes": 1668,
+    "sha256": "da75e9370dab04d9565b747ea109936b50b4b76268f3fdef38efcc19536a68fb"
   }
 ]
