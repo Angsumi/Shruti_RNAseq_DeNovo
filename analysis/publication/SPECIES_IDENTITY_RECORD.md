@@ -1,9 +1,7 @@
 # Species identity record
 
-The vendor files label the organism **Dinoponera gigantea**. The user reports identification by a taxonomist and collection of individual worker ants on Mizoram University campus on 1 October 2025. No taxonomist name, specimen voucher, identification document or barcode has yet been supplied.
+The author corrected the species identification to **Diacamma assamense** on 4 November 2026. This name is used in the current report, sample metadata and manuscript draft. Identification was reported as performed by a taxonomist. The samples are individual whole-body worker ants from the same colony, collected on Mizoram University campus on 1 October 2025.
 
-A geographic discrepancy remains to document: the 2021 taxonomic revision describes *Dinoponera* as a South American genus. This is a provenance issue requiring clarification, not a computational re-identification of the ants. Preserve the reported label and do not silently substitute a different species.
+Original vendor files and filenames retain the earlier **Dinoponera gigantea** label as historical source material. That label is superseded for the current study and is not used to infer the specimen identity. Protein-reference organism names remain unchanged because they identify reference matches rather than the study samples.
 
-The author requests omission of taxonomist name and voucher details from the manuscript, and those details are omitted. Keep the geographical discrepancy as an internal verification issue; do not invent an introduction, locality error, alternative species or other explanation.
-
-Primary reference: Dias & Lattke (2021), [Large ants are not easy — the taxonomy of Dinoponera](https://europeanjournaloftaxonomy.eu/index.php/ejt/article/view/1603).
+The geographic concern raised specifically about the earlier Dinoponera label is superseded by this correction. No computational re-identification is claimed. Taxonomist name and voucher details are omitted from manuscript text at the author's request.

@@ -1,4 +1,4 @@
-# Dinoponera gigantea transcriptome analysis
+# Diacamma assamense transcriptome analysis
 
 Open [index.html](index.html) for the analysis report and downloads for samples AZ1, AZ2 and AZ3.
 
@@ -31,3 +31,5 @@ Serve this directory using `python3 -m http.server 8000` and open `http://localh
 ## Expanded computational assessment
 
 Steps 16–23 report expanded Swiss-Prot annotation/taxonomic review, UniVec screening, independent precursor-model prediction, fresh DRAMP database search, updated candidate interpretation, Hymenoptera protein BUSCO, metadata and descriptive counts. The secretion-only shortlist is historical and has been superseded by the integrated review. See [computational workflow](analysis/COMPUTATIONAL_WORKFLOW.md), [methods/results draft](analysis/publication/METHODS_AND_RESULTS_DRAFT.md) and [readiness/claims](analysis/publication/READINESS_AND_CLAIMS.md). Experimental measurements and a confirmed host-only partition are not available.
+
+Species correction (4 November 2026): the author identified the study species as **Diacamma assamense**. Original vendor filenames and source-report labels are preserved for provenance; current study descriptions and metadata use the corrected name. Reference-match organism names are unchanged.

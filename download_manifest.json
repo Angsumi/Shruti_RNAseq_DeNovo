@@ -386,8 +386,8 @@
   },
   {
     "path": "analysis/scripts/prepare_publication_metadata.py",
-    "bytes": 804,
-    "sha256": "b133ebc77d4c8f4d5304aaadfda2f888e5e8207f1e2fb7394200a90236a1518b"
+    "bytes": 818,
+    "sha256": "f7c80d57ecce78934f621e705edeb28ea5e5d9a33e1574eabb267feed341a6a7"
   },
   {
     "path": "analysis/scripts/derive_ampir_outputs.py",
@@ -406,13 +406,13 @@
   },
   {
     "path": "analysis/publication/SPECIES_IDENTITY_RECORD.md",
-    "bytes": 1078,
-    "sha256": "5afd654305836a8ddff16f771ff9468ec462065ad68228d9a5b2c3fd24d781c3"
+    "bytes": 975,
+    "sha256": "de36857064c1364fb89984a3814214243039a4b4192aa82c1a1199390266440e"
   },
   {
     "path": "analysis/publication/METHODS_AND_RESULTS_DRAFT.md",
-    "bytes": 8800,
-    "sha256": "c62fe5f16858bf6b6ef7150aa7a888d8b4557e326b3e2399c263bc5cadd7154c"
+    "bytes": 8799,
+    "sha256": "a218d7a7c28f277f97c51897918cff1a97b63555077a918d82cbeba91625d6a1"
   },
   {
     "path": "analysis/publication/ampir_score_sensitivity.png",
@@ -426,8 +426,8 @@
   },
   {
     "path": "analysis/publication/READINESS_AND_CLAIMS.md",
-    "bytes": 4227,
-    "sha256": "c2f9d4acc8b2772f847a79e451eeb33c1e14b93689c2c95cd56f172a840c4c76"
+    "bytes": 4264,
+    "sha256": "7f1852fb828a0beddbe2979d6482398245b4cd884274f9812571ca86c697f8ce"
   },
   {
     "path": "analysis/publication/FIGURE_CAPTIONS.md",
@@ -436,7 +436,7 @@
   },
   {
     "path": "analysis/publication/sample_metadata.tsv",
-    "bytes": 997,
-    "sha256": "94df5ca8b0d4908c96d8e8124c0f3ce447767e58371da6756444573c7cd773a2"
+    "bytes": 1039,
+    "sha256": "bed96a1a0e0bf6969fbfe8b3f4437fb3921a4f3bb431c0b57c547e6bbe8a5457"
   }
 ]

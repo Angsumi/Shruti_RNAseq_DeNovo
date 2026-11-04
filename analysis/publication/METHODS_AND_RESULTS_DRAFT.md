@@ -4,7 +4,7 @@ This is a source-linked draft for author review. It contains no experimental val
 
 ## Study design and source material
 
-AZ1, AZ2 and AZ3 represent three individual worker ants collected whole-body from the same colony at Mizoram University campus on 1 October 2025 (author-provided metadata). The reported identification is *Dinoponera gigantea*. There was no control/treatment comparison. These data provide within-colony observations and do not support generalization across colonies or treatment-effect testing. Library preparation, strandedness and RNA extraction details were not available in the retained materials. The report describes paired-end sequencing with 150-bp reads.
+AZ1, AZ2 and AZ3 represent three individual worker ants collected whole-body from the same colony at Mizoram University campus on 1 October 2025 (author-provided metadata). The reported identification is *Diacamma assamense*. There was no control/treatment comparison. These data provide within-colony observations and do not support generalization across colonies or treatment-effect testing. Library preparation, strandedness and RNA extraction details were not available in the retained materials. The report describes paired-end sequencing with 150-bp reads.
 
 Original vendor deliverables comprised a transcript FASTA, predicted peptides, structural and functional annotation, per-sample read-count spreadsheets, and DRAMP match tables. Historical raw reads could not be retrieved from the supplied server because the specified data directory was absent at the time of checking. The assembly and count outputs were analyzed directly; assembly, mapping and counting were not repeated.
 
