@@ -45,3 +45,9 @@ Assembly, annotation, mapping and counting are already reported as done. Raw rea
 - [SignalP 6.0 documentation](https://services.healthtech.dtu.dk/services/SignalP-6.0/)
 - [NCBI TSA submissions](https://submit.ncbi.nlm.nih.gov/about/tsa/)
 - [DESeq2 design and replication guidance](https://bioconductor.org/packages/release/bioc/vignettes/DESeq2/inst/doc/DESeq2.html)
+
+## Further completed checks (4 November 2026)
+
+Full candidates were locally re-aligned to the 688 original DRAMP target pairs using Biopython 1.88/BLOSUM62, gap open -11, extend -0.5. This is a pairwise recheck, not a database-wide search or significance test. The current public general reference FASTA has 12,784 records; URL and checksum are retained. Unicode whitespace was removed from reference sequences during parsing.
+
+Phobius 1.01 standalone produced predictions for all 370 candidates: 21 signal-positive, 18 signal-positive without TM helices, 12 signal-positive with complete ORFs, 64 with one or more TM helices. Only terminal stop symbols were removed from predictor input. Original files remain unchanged. The full web submission was rejected for size, so predictions were run locally. Next: cross-reference these predictions with complete ORFs, alignment coverage and expression evidence for manual candidate review.

@@ -86,8 +86,8 @@
   },
   {
     "path": "analysis/RESEARCH_PLAN.md",
-    "bytes": 6464,
-    "sha256": "0b1634cc2f4f457fca9e5e7849fe9eee7914640336d04e216d3d27f073c2e3e0"
+    "bytes": 7399,
+    "sha256": "5721f0a83f64be28d1aed17b9195284093f407209766a68637c8a842c936129e"
   },
   {
     "path": "analysis/results/amp_candidate_full_sequences.faa",
@@ -138,5 +138,55 @@
     "path": "analysis/scripts/build_candidate_evidence.py",
     "bytes": 1668,
     "sha256": "da75e9370dab04d9565b747ea109936b50b4b76268f3fdef38efcc19536a68fb"
+  },
+  {
+    "path": "analysis/results/amp_candidates_prediction_input.faa",
+    "bytes": 92483,
+    "sha256": "964cc00f803d6b590b2bd860d9c70dcde1c6af10cb3db055c5fbafbf8448a01f"
+  },
+  {
+    "path": "analysis/results/phobius_raw_output.txt",
+    "bytes": 279666,
+    "sha256": "9cc38945083ee9e0c3a2218bbf3847741d443255ea8c8ef9e358f2f832e5ce7d"
+  },
+  {
+    "path": "analysis/results/phobius_methods.json",
+    "bytes": 859,
+    "sha256": "e0ec5b0e003b75ad72f52fcb88c6af7aa7e545d48218c3fe98e3aa8bb881e266"
+  },
+  {
+    "path": "analysis/results/amp_full_sequence_realignments.tsv",
+    "bytes": 59338,
+    "sha256": "6877944b940441c296c0f2591ff74d53e8084e6257581c84a1cb3d906e3c6568"
+  },
+  {
+    "path": "analysis/results/phobius_candidate_summary.tsv",
+    "bytes": 47700,
+    "sha256": "9237e18e22743e8b98392b804640a96a500a00c37c8a9146dc67ab9a4ba9e336"
+  },
+  {
+    "path": "analysis/results/phobius_predictions.txt",
+    "bytes": 16849,
+    "sha256": "04bf270ccc4e22fd465d3540b7b9f15bfe243457cf025e2c231ef64387c0d50d"
+  },
+  {
+    "path": "analysis/results/phobius_run.log",
+    "bytes": 262,
+    "sha256": "e6f1fb52843588dce9356290277bf3b2a724220f7f926832e777b23671c2b47f"
+  },
+  {
+    "path": "analysis/results/amp_realignment_methods.json",
+    "bytes": 705,
+    "sha256": "e0355d4115bed024a48846ec4f1ce492dcb5a7a1d2046535fe4fc5fe508995c9"
+  },
+  {
+    "path": "analysis/scripts/summarize_phobius.py",
+    "bytes": 2120,
+    "sha256": "59bfe4baba7167485d2b65e2e62fa8e22743102247e04c4c727a14290e6de1a8"
+  },
+  {
+    "path": "analysis/scripts/recheck_amp_alignments.py",
+    "bytes": 2843,
+    "sha256": "c37acb2bf0859945d5c782a5bc1a82a193e16c89b21c09fd4280ebfceebf84c0"
   }
 ]

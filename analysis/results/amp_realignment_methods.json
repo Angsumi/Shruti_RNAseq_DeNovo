@@ -1,0 +1,12 @@
+{
+  "method": "Biopython local pairwise alignment, BLOSUM62, gap open -11, gap extend -0.5; first optimal alignment retained",
+  "scope": "Original reported query-target pairs only; not all-vs-database search",
+  "reference_url": "https://dramp.cpu-bioinfor.org/downloads/download.php?filename=download_data/DRAMP3.0_new/general_amps.fasta",
+  "reference_sha256": "8326ff308eb3ae67cafbdbf3756c0e943d7d968e5e0a338298ce602269d1caf0",
+  "reference_records": 12784,
+  "pairs": 688,
+  "status_counts": {
+    "aligned": 688
+  },
+  "limits": "No E-values or statistical significance calculated; similarity does not validate antimicrobial activity; full precursor coverage differs from mature peptide coverage"
+}
