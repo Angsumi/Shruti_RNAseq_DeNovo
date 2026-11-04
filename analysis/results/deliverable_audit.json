@@ -1,0 +1,71 @@
+{
+  "audit_date_utc": "2026-11-04T17:05:09.160007+00:00",
+  "assembly": {
+    "records": 318934,
+    "unique_ids": 318934,
+    "duplicate_id_records": 0,
+    "total_bases": 149464614,
+    "minimum_length": 300,
+    "median_length": 375.0,
+    "maximum_length": 162186,
+    "N50": 419,
+    "GC_percent": 44.2383640050079,
+    "N_bases": 0,
+    "exact_duplicate_sequence_records_beyond_first": 0,
+    "peptide_records": 41281,
+    "peptide_ids_without_transcript": 0,
+    "orf_types": {
+      "internal": 15821,
+      "complete": 11850,
+      "5prime_partial": 8933,
+      "3prime_partial": 4677
+    }
+  },
+  "expression": {
+    "samples": [
+      [
+        "AZ1",
+        27922,
+        27922,
+        0,
+        27922,
+        0,
+        0,
+        481075
+      ],
+      [
+        "AZ2",
+        18957,
+        18957,
+        0,
+        18957,
+        0,
+        0,
+        557693
+      ],
+      [
+        "AZ3",
+        15377,
+        15377,
+        0,
+        15377,
+        0,
+        0,
+        330323
+      ]
+    ],
+    "union_IDs": 28141,
+    "shared_IDs_all_three": 12833,
+    "missing_cell_policy": "NA means absent from delivered workbook; not assumed zero",
+    "normalization": "None; original delivered counts preserved",
+    "design": "Same group; no treatment comparison; biological independence unconfirmed"
+  },
+  "AMP": {
+    "match_rows": 688,
+    "distinct_queries": 370,
+    "queries_found_in_peptide_FASTA": 370,
+    "match_rows_query_fragment_under_20_aa": 576,
+    "minimum_query_fragment_length_aa": 4
+  },
+  "contamination_status": "Not screened. Species names in homology descriptions are not taxonomic classifications. No search database or classification tool available in the current environment."
+}

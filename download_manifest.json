@@ -1,0 +1,132 @@
+[
+  {
+    "path": "vendor_analysis/extracted_results/OPL_mRNA_3_24201_Analysis_Results/AMP Analysis/AMP_Results.xlsx",
+    "bytes": 72860,
+    "sha256": "1cd9d58a0643f19b01c23ecc81c118dce3c5944293b21e6fadbbebef5825c58b"
+  },
+  {
+    "path": "vendor_analysis/extracted_results/OPL_mRNA_3_24201_Analysis_Results/Expressed Genes/AZ2_Expressed_Genes.xlsx",
+    "bytes": 977183,
+    "sha256": "e8c91cd917fcc46498c8383f11ac7cb15d8501b6546785c89d6f1de318d9f2d2"
+  },
+  {
+    "path": "vendor_analysis/extracted_results/OPL_mRNA_3_24201_Analysis_Results/Expressed Genes/AZ1_Expressed_Genes.xlsx",
+    "bytes": 1432178,
+    "sha256": "f07604f6e33e3f067b2f9387117c7963df4619498ac42472bf7c2fa4fa6df2ff"
+  },
+  {
+    "path": "vendor_analysis/extracted_results/OPL_mRNA_3_24201_Analysis_Results/Expressed Genes/AZ3_Expressed_Genes.xlsx",
+    "bytes": 790895,
+    "sha256": "65e81e26f579129176c12dc06012d65e90c91bbcde1da23559b574b8c5d71a0f"
+  },
+  {
+    "path": "vendor_analysis/extracted_results/OPL_mRNA_3_24201_Analysis_Results/Transcriptome Annotation/Dinoponera gigantea Annotation.gff3",
+    "bytes": 29868552,
+    "sha256": "f5149ab4caa806580c38af67d539425691f1a065c840a8a658842436caa6a2e8"
+  },
+  {
+    "path": "vendor_analysis/extracted_results/OPL_mRNA_3_24201_Analysis_Results/Transcriptome Annotation/Dinoponera gigantea Functional Annotation..tsv",
+    "bytes": 2504384,
+    "sha256": "7270c5769ab5f91761c5be78ce09ccf52b4a1bbc1c0d70414aaf25b39a9bdf22"
+  },
+  {
+    "path": "vendor_analysis/extracted_results/OPL_mRNA_3_24201_Analysis_Results/Transcriptome DeNovo Assembly/Dinoponera gigantea Assembly.fa",
+    "bytes": 169437565,
+    "sha256": "91823742241e3518a09c66561374a6031872eb2569d98669686cb3de15026216"
+  },
+  {
+    "path": "vendor_analysis/extracted_results/OPL_mRNA_3_24201_Analysis_Results/Transcriptome DeNovo Assembly/Dinoponera gigantea Assembly.pep",
+    "bytes": 15239129,
+    "sha256": "461c9d850e876ab3111782d55dce2b1b4e45e7e161700aa671ed29587027b2fb"
+  },
+  {
+    "path": "vendor_analysis/OPL_mRNA_3_24201_Analysis_Results.zip",
+    "bytes": 60657121,
+    "sha256": "685365dde24bb1fffb5f2c695b1a16915dd0fb98a0c74286ec587eb30e4e2ef6"
+  },
+  {
+    "path": "vendor_analysis/data/qc/busco_run_provenance.json",
+    "bytes": 987,
+    "sha256": "f05dba069932976701f0f3a017bff11e5d7b7cfb63eec83b94d3829002d16bfd"
+  },
+  {
+    "path": "vendor_analysis/scripts/run_busco.sh",
+    "bytes": 644,
+    "sha256": "d6eaa2f09194340dc63bd9bcf0187bf8b7abbf29d96afef5aa88c917d3950713"
+  },
+  {
+    "path": "vendor_analysis/scripts/busco_environment.yml",
+    "bytes": 124,
+    "sha256": "4c141dbad316f564b73e0e5d5fbf96ac642080720dca9a2481d2e51f5076fdc3"
+  },
+  {
+    "path": "vendor_analysis/scripts/summarize_busco.py",
+    "bytes": 878,
+    "sha256": "073e1c8d6fc30572752d47f7bfb7d6dbbd57481fc99dc98d87e56c814995e3aa"
+  },
+  {
+    "path": "vendor_analysis/results/tables/busco_full_table.tsv",
+    "bytes": 14462,
+    "sha256": "4dfd4c1db44bf38f5848c491be8c2f9bbfa52df9475005d45207a5bd1f92dea0"
+  },
+  {
+    "path": "vendor_analysis/results/tables/busco_summary.csv",
+    "bytes": 128,
+    "sha256": "c86f5f3de2c4869fe9aa343c94d613414ec73f05d4d0c11938a4520908711541"
+  },
+  {
+    "path": "vendor_analysis/data/qc/busco_results/short_summary.specific.eukaryota_odb12.2.busco_results.txt",
+    "bytes": 764,
+    "sha256": "096defe861b33d55c688d34bebee73214abf1e0aa8577ad4baa671b1497760a7"
+  },
+  {
+    "path": "vendor_analysis/data/qc/busco_results/short_summary.specific.eukaryota_odb12.2.busco_results.json",
+    "bytes": 2578,
+    "sha256": "7e9b8f78d872d7b228dd090e808ff60a03ac5572cbb30ffc95d540a800125e07"
+  },
+  {
+    "path": "analysis/RESEARCH_PLAN.md",
+    "bytes": 6464,
+    "sha256": "0b1634cc2f4f457fca9e5e7849fe9eee7914640336d04e216d3d27f073c2e3e0"
+  },
+  {
+    "path": "analysis/results/amp_candidate_full_sequences.faa",
+    "bytes": 92720,
+    "sha256": "77be2eee3878c30ed61aeed476faaed191c8382522fa7f10fd3e969868d2865a"
+  },
+  {
+    "path": "analysis/results/amp_sequence_audit.tsv",
+    "bytes": 81023,
+    "sha256": "163c3e8806fe014945bbb78361c2d22caee84d2cb38eb03ad3f73890cfdcbced"
+  },
+  {
+    "path": "analysis/results/annotation_species_labels.tsv",
+    "bytes": 118500,
+    "sha256": "7f963753e629efc28fa2920a3c85411b6cad5e40525b7850d40d1f91a9676fd1"
+  },
+  {
+    "path": "analysis/results/deliverable_audit.json",
+    "bytes": 1729,
+    "sha256": "cf8ae6e1ebafb8babc51c41be612e25d3d5b7c95ec2b94acf7b4dd7bf3e91f74"
+  },
+  {
+    "path": "analysis/results/delivered_counts_union.tsv.gz",
+    "bytes": 156728,
+    "sha256": "22f495d7473b82b145d8fc9366050344a21a4b3b0609775d3be772ed4a41183c"
+  },
+  {
+    "path": "analysis/results/expression_audit.tsv",
+    "bytes": 244,
+    "sha256": "e16bba09cf0eb46400493c0ceb99417f6afd5a17e7579b681af20c91038f848d"
+  },
+  {
+    "path": "analysis/results/invalid_expression_counts.tsv",
+    "bytes": 17,
+    "sha256": "ac897e8e2d65c258b224fa5fa4edda7127824183035103220491646d2e7022d3"
+  },
+  {
+    "path": "analysis/scripts/audit_deliverables.py",
+    "bytes": 6581,
+    "sha256": "c479b7418f7eedc9b32649955b3b4d7d224ab645ee177bcaf5daf732e0a154fd"
+  }
+]

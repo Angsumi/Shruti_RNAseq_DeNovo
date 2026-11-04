@@ -24,7 +24,5 @@
   },
   "mode": "euk_tran",
   "summary_relative_path": "vendor_analysis/data/qc/busco_results/short_summary.specific.eukaryota_odb12.2.busco_results.json",
-  "exported_at_utc": "2026-10-07T11:19:12.096317+00:00",
-  "comparison_source": "local_analysis/data/qc/busco_results/short_summary.specific.eukaryota_odb12.2.busco_results.json",
-  "same_lineage_release": true
+  "exported_at_utc": "2026-10-07T11:19:12.096317+00:00"
 }
